@@ -1,1 +1,1 @@
-Toutes les avantures de Kata !
+Toutes les aventures de Kata !
